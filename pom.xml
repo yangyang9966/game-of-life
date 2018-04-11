@@ -2,13 +2,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <hudson.tasks.Maven_-DescriptorImpl>
   <installations>
-    <hudson.tasks.Maven_-MavenInstallation>
+    <hudson.tasks.Maven-MavenInstallation>
       <name>MAVEN3</name>
       <home>/usr/share/apache-maven/</home>
       <properties/>
-    </hudson.tasks.Maven_-MavenInstallation>
+    </hudson.tasks.Maven-MavenInstallation>
   </installations>
-</hudson.tasks.Maven_-DescriptorImpl>
+</hudson.tasks.Maven-DescriptorImpl>
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.wakaleo.gameoflife</groupId>
     <artifactId>gameoflife</artifactId>
